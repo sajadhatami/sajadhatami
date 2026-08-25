@@ -26,12 +26,11 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <!-- نمایش روزهای فعالیت مداوم (Streak) که سرور پایدارتری دارد -->
-  <img src="https://streak-stats.demolab.com/?user=sajadhatami&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  
-  <!-- نمایش زبان‌های استفاده شده (با اضافه کردن پارامتر کش برای لود بهتر) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadhatami&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/sajadhatami?config_timezone=Asia%2FTehran" alt="GitHub Metrics" width="80%" />
 </div>
+
+<br>
+
 ### 📫 Connect with Me
 
 <div align="center">
