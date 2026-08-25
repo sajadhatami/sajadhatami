@@ -23,12 +23,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajadhatami&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadhatami&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" />
-</div>
 
 ### 📫 Connect with Me
 
