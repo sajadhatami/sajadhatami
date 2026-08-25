@@ -26,10 +26,9 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/sajadhatami?config_timezone=Asia%2FTehran" alt="GitHub Metrics" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajadhatami&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadhatami&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" />
 </div>
-
-<br>
 
 ### 📫 Connect with Me
 
