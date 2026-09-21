@@ -44,8 +44,7 @@ My current focus is on:
 - 🐳 Docker
 - 🏗️ Backend Architecture
 
-I enjoy understanding systems from the HTTP request all the way down to the
-database transaction and back to the API response.
+I enjoy understanding systems from the HTTP request all the way down to the database transaction and back to the API response.
 
 ---
 
@@ -67,8 +66,7 @@ database transaction and back to the API response.
 
 <div align="center">
 
-`REST APIs` · `Async Python` · `SQLAlchemy` · `Alembic` · `JWT`
-· `Clean Architecture` · `Repository Pattern` · `Unit of Work`
+`REST APIs` · `Async Python` · `SQLAlchemy` · `Alembic` · `JWT` · `Clean Architecture` · `Repository Pattern` · `Unit of Work`
 
 </div>
 
@@ -98,61 +96,103 @@ Asynchronous REST API built with FastAPI and PostgreSQL, focused on authenticati
 
 **Architecture**
 
-```text
-Router → Service → Repository → Database
-<a href="https://github.com/sajadhatami/fastapi-todo-app"> <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> <td width="50%" valign="top">
-🍳 DRF Recipe API
+`Router → Service → Repository → Database`
+
+<br>
+
+<a href="https://github.com/sajadhatami/fastapi-todo-app"> 
+  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> 
+</a> 
+
+</td> 
+
+<td width="50%" valign="top">
+
+### 🍳 DRF Recipe API
 
 Django REST Framework API focused on REST design, validation, authentication and structured backend development.
 
-Stack
+**Stack**
 
-Python
-Django
-Django REST Framework
-PostgreSQL
-Serializers
-Authentication
-Validation
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- Serializers
+- Authentication
+- Validation
 
-Focus
+**Focus**
 
-API Design → Validation → Business Logic
-<a href="https://github.com/sajadhatami/drf-recipe-api"> <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
-📝 Portfolio Blog
+`API Design → Validation → Business Logic`
+
+<br>
+
+<a href="https://github.com/sajadhatami/drf-recipe-api"> 
+  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> 
+</a> 
+
+</td> 
+</tr> 
+
+<tr> 
+<td width="50%" valign="top">
+
+### 📝 Portfolio Blog
 
 Web application focused on backend development, content management and building a structured application around real-world use cases.
 
-Focus
+**Focus**
 
-Python Backend
-Web Application
-Content Management
-Database Design
-Authentication
-API Development
+- Python Backend
+- Web Application
+- Content Management
+- Database Design
+- Authentication
+- API Development
 
-Architecture
+**Architecture**
 
-Request → Application → Database
-<a href="https://github.com/sajadhatami/portfolio-blog"> <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> <td width="50%" valign="top">
-🧠 Raviku
+`Request → Application → Database`
+
+<br>
+
+<a href="https://github.com/sajadhatami/portfolio-blog"> 
+  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> 
+</a> 
+
+</td> 
+
+<td width="50%" valign="top">
+
+### 🧠 Raviku
 
 Smart content ingestion backend currently under active development, exploring source discovery, content processing and AI-assisted workflows.
 
-Focus
+**Focus**
 
-FastAPI
-PostgreSQL
-Authentication
-Source Processing
-Content Ingestion
-AI Integration
+- FastAPI
+- PostgreSQL
+- Authentication
+- Source Processing
+- Content Ingestion
+- AI Integration
 
-Architecture
+**Architecture**
 
-Source → Processing → Storage → API
-<a href="https://github.com/sajadhatami"> <img src="https://img.shields.io/badge/Coming%20Soon-475569?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr> </table> ```
+`Source → Processing → Storage → API`
+
+<br>
+
+<a href="https://github.com/sajadhatami"> 
+  <img src="https://img.shields.io/badge/Coming%20Soon-475569?style=for-the-badge&logo=github&logoColor=white" /> 
+</a> 
+
+</td> 
+</tr> 
+</table>
+
+---
 
 ## 🏗️ Backend Architecture
 
@@ -233,10 +273,6 @@ Test important behavior
         ↓
 Ship
 ```
-
-</div>
-
----
 
 ## 📫 Connect
 
