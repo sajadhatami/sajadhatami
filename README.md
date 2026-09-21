@@ -83,114 +83,76 @@ database transaction and back to the API response.
 
 ### ⚡ FastAPI Todo API
 
-A production-oriented asynchronous REST API.
+Asynchronous REST API built with FastAPI and PostgreSQL, focused on authentication, ownership and clean backend architecture.
 
 **Stack**
 
-```text
-Python 3.13
-FastAPI
-PostgreSQL
-SQLAlchemy 2 Async
-Alembic
-JWT
-Argon2
-Docker Compose
-Pytest
-Scalar
-```
+- Python 3.13
+- FastAPI
+- PostgreSQL
+- SQLAlchemy 2
+- Alembic
+- JWT & Argon2
+- Docker Compose
+- Pytest
 
 **Architecture**
 
 ```text
-Router
-   ↓
-Service
-   ↓
-Repository
-   ↓
-Database
-```
+Router → Service → Repository → Database
+<a href="https://github.com/sajadhatami/fastapi-todo-app"> <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> <td width="50%" valign="top">
+🍳 DRF Recipe API
 
-Includes ownership protection, authentication,
-async database access and transactional workflows.
+Django REST Framework API focused on REST design, validation, authentication and structured backend development.
 
-<br>
+Stack
 
-<a href="https://github.com/sajadhatami/fastapi-todo-app">
-  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Python
+Django
+Django REST Framework
+PostgreSQL
+Serializers
+Authentication
+Validation
 
-</td>
+Focus
 
-<td width="50%" valign="top">
+API Design → Validation → Business Logic
+<a href="https://github.com/sajadhatami/drf-recipe-api"> <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
+📝 Portfolio Blog
 
-### 🍳 DRF Recipe API
+Web application focused on backend development, content management and building a structured application around real-world use cases.
 
-A Django REST Framework project focused on
-API design and backend architecture.
+Focus
 
-**Focus**
+Python Backend
+Web Application
+Content Management
+Database Design
+Authentication
+API Development
 
-- Django
-- DRF
-- REST APIs
-- Authentication
-- Serializers
-- Validation
-- PostgreSQL
+Architecture
 
-Built as part of my transition into
-professional backend development.
+Request → Application → Database
+<a href="https://github.com/sajadhatami/portfolio-blog"> <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> <td width="50%" valign="top">
+🧠 Raviku
 
-<br>
+Smart content ingestion backend currently under active development, exploring source discovery, content processing and AI-assisted workflows.
 
-<a href="https://github.com/sajadhatami/drf-recipe-api">
-  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Focus
 
-</td>
+FastAPI
+PostgreSQL
+Authentication
+Source Processing
+Content Ingestion
+AI Integration
 
-</tr>
+Architecture
 
-<tr>
-
-<td width="50%" valign="top">
-
-### 📝 Portfolio Blog
-
-A web project focused on backend development,
-content management and web application structure.
-
-<br>
-
-<a href="https://github.com/sajadhatami/portfolio-blog">
-  <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Current Focus
-
-Currently going deeper into:
-
-- Backend Architecture
-- Database Design
-- Authentication
-- Async Workloads
-- Testing
-- API Design
-- AI-assisted Development
-- Production Engineering
-
-</td>
-
-</tr>
-</table>
-
----
+Source → Processing → Storage → API
+<a href="https://github.com/sajadhatami"> <img src="https://img.shields.io/badge/Coming%20Soon-475569?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr> </table> ```
 
 ## 🏗️ Backend Architecture
 
