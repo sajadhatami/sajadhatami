@@ -271,7 +271,7 @@ Make failures explicit
         ↓
 Test important behavior
         ↓
-Ship
+       Ship
 ```
 
 ## 📫 Connect
@@ -291,4 +291,3 @@ Ship
 <sub>Built with Markdown, SVGs and GitHub Actions.</sub>
 
 </div>
-```
