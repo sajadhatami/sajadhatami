@@ -98,3 +98,55 @@ Argon2
 Docker Compose
 Pytest
 Scalar
+
+Architecture
+
+Router
+   ↓
+Service
+   ↓
+Repository
+   ↓
+Database
+
+Includes ownership protection, authentication,
+async database access and transactional workflows.
+
+<br> <a href="https://github.com/sajadhatami/fastapi-todo-app"> <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> <td width="50%" valign="top">
+🍳 DRF Recipe API
+
+A Django REST Framework project focused on
+API design and backend architecture.
+
+Focus
+
+Django
+DRF
+REST APIs
+Authentication
+Serializers
+Validation
+PostgreSQL
+
+Built as part of my transition into
+professional backend development.
+
+<br> <a href="https://github.com/sajadhatami/drf-recipe-api"> <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
+📝 Portfolio Blog
+
+A web project focused on backend development,
+content management and web application structure.
+
+<br> <a href="https://github.com/sajadhatami/portfolio-blog"> <img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=github&logoColor=white" /> </a> </td> <td width="50%" valign="top">
+🧠 Current Focus
+
+Currently going deeper into:
+
+Backend Architecture
+Database Design
+Authentication
+Async Workloads
+Testing
+API Design
+AI-assisted Development
+Production Engineering
