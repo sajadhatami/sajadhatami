@@ -224,14 +224,6 @@ Smart content ingestion backend currently under active development, exploring so
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajadhatami&theme=github_dark" width="98%" alt="GitHub profile details" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sajadhatami&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadhatami&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170" alt="Top languages" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Flow
