@@ -21,7 +21,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files
+      - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
